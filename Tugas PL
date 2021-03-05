@@ -6,6 +6,7 @@ int main()
 	float arr[3][3];
 	float det;
 	
+	
 	printf("masukkan ordo matrix yang anda inginkan (2x2 or 3x3) : ");
 	scanf("%d", ordo)
 		
